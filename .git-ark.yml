@@ -1,0 +1,15 @@
+# Backup + mirror policy for the Scoop bucket. Published through git-ark's own
+# client-managed mirror, same as everything else.
+
+# main earns the durable, client-side-encrypted S3 backup.
+backup_refs:
+  - main
+
+# Public mirror to the boomctl OSS org → github.com/boomctl/scoop-bucket.
+github:
+  enabled: true
+  visibility: public
+  owner: boomctl
+  repo: scoop-bucket
+  branches:
+    - main
