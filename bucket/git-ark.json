@@ -1,12 +1,12 @@
 {
-    "version": "0.3.2",
+    "version": "0.4.0",
     "description": "A write-only backup vault that fronts your own git host",
     "homepage": "https://github.com/boomctl/git-ark",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/boomctl/git-ark/releases/download/v0.3.2/git-ark-x86_64-pc-windows-msvc.exe#/git-ark.exe",
-            "hash": "ae4aef4121839853393c8bb407633a4dc3d77f438250c37b1631c53e1c511645"
+            "url": "https://github.com/boomctl/git-ark/releases/download/v0.4.0/git-ark-x86_64-pc-windows-msvc.exe#/git-ark.exe",
+            "hash": "56530559299317ecc09bb39bcc1f72affd766ca2a484c2120379d3945e438260"
         }
     },
     "bin": "git-ark.exe",
