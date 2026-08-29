@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Send a file out of your own cloud — encrypted, expiring, one command.",
     "homepage": "https://dove.sh",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/boomctl/dove/releases/download/v0.1.0/dove-x86_64-pc-windows-msvc.exe#/dove.exe",
-            "hash": "32fa1d7cc0bca3d861eaa55beba69f6b6d4b01ecb4405973762275aeb93da229"
+            "url": "https://github.com/boomctl/dove/releases/download/v0.2.0/dove-x86_64-pc-windows-msvc.exe#/dove.exe",
+            "hash": "9b3040bafa4fc7dd13e743846a6a1e7e141016260517210d9da2e210cd54e4a8"
         }
     },
     "bin": "dove.exe",
